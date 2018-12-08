@@ -11,7 +11,7 @@ public:
   void input(void){
     cin>>a>>b>>c;
   }
-
+  
 };
 int main(){
   values o1;
